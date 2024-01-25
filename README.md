@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains Machine Learning projects to solve classification and regression problems.
+This repository contains Machine Learning projects to solve regression problems.
